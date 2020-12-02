@@ -11,12 +11,14 @@
 </div>
 
 <hr/>
+<br/>
+<br/>
 
 ### Brief
 
 ---
 
-TBD
+Build a mobile first application based on a given style guid
 
 <br/>
 <br/>
