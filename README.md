@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/6fUr2fxUQv4NM764iFwCeui8Jyhn1ojSJG_4pnuGIrJOdIFdlV8RjVbCj0NqjzR3QaBNdYwE9v-NKZSV7BnOPo8rThtm8CE5bFKrXTUalADnfFmlkzQeoAOWaOHjreZlmdr2Jlnfz2a1WsA" height="100" />
+  <img src="https://www.uxjobsboard.com/wp-content/uploads/2018/06/100s_logo-200x200.png" height="100" />
   
   <hr/>
   
@@ -12,13 +12,19 @@
 
 <hr/>
 <br/>
+
+<div align="center">
+  <img src="https://products.ls.graphics/mesh-gradients/images/gradienbt-p-1600.jpeg" height="300"/>
+</div>
+
+<br/>
 <br/>
 
 ### Brief
 
 ---
 
-Build a mobile first application based on a given style guid
+Build a mobile first application based on a given style guide
 
 <br/>
 <br/>
@@ -82,11 +88,12 @@ Build a mobile first application based on a given style guid
 
 The Challenge — We’d like to get a feel for how you code. Please see our [figma link](https://www.figma.com/proto/c28LXdszX9wXnN5C1wDfEs/FE-Test?node-id=1%3A3&viewport=556%2C371%2C0.9137248992919922&scaling=scale-down), take a look at the design study it, then bring it to life.
 
-|                                                                                                                                              | Stack        |                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRRS42xTcnXMlC85s502uVAhzdGqq_23-bXA&usqp=CAU" width="25" height="25"/>      | Expo         | I decided to use expo to allow this application to translate seamlessly from mobile to tablet to web. "Build one project that runs natively on all your users' devices."                                                               |
-| <img src="https://cdn.auth0.com/blog/react-js/react.png" width="25" height="25"/>                                                            | React Native | "A JavaScript library for building user interfaces." Because this project is mobile first I decided to go with React Native to allow a more fluid transition from mobile development to web development. "Learn once, write anywhere." |
-| <img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" width="25" height="25"/> | Tailwindcss  | I decided to go with Tailwindcss to allow the design system to be scalable and easy to maintain. "Tailwindcss is a utility-first CSS framework."                                                                                       |
+
+| <div align="left"> Stack </div> |      |      |
+| ------------------------------- | ---- | ---- |
+| <div align="center"> <img src="https://cdn.auth0.com/blog/react-js/react.png" width="30" /> </div>| React Native | "A JavaScript library for building user interfaces." Because this project is mobile first I decided to go with React Native to allow a more fluid transition from mobile development to web development. "Learn once, write anywhere." |
+| <div align="center"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1515394575880/SkuMI5gEM.jpeg" width="30" /> </div>| Expo | I decided to use expo to allow this application to translate seamlessly from mobile to tablet to web. "Build one project that runs natively on all your users' devices." |
+| <div align="center"> <img src="https://www.markusantonwolf.com/media/pages/blog/tailwind-css/265298487-1596675041/tailwind-css-logo.svg" width="30"/> </div>| Tailwindcss  | I decided to go with Tailwindcss to allow the design system to be scalable and easy to maintain. "Tailwindcss is a utility-first CSS framework." |
 
 <br/>
 <br/>
